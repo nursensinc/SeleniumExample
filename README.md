@@ -13,7 +13,7 @@
 ## 1. Firstly clone the project
 
 ```
-https://github.com/nursensinc/SeleniumExampleProject.git
+https://github.com/nursensinc/SeleniumExample.git
 ```
 
 ## 2. Then Install Java
